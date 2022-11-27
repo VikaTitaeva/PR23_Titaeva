@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">PR23_Titaeva</string>
+    <string name="app_name">FragmentTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="poas">
+        <item>Пояса</item>
+        <item>Чёрный пояс - символ полного пройденного пути</item>
+        <item>Красный пояс - символ что все знания уже получены</item>
+        <item>Зелёный пояс - символ весны и возрождения</item>
+    </string-array>
 </resources>
